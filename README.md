@@ -18,6 +18,10 @@ redStack is an open source AWS and Terraform project that stands up a full red t
 
 This is the landing page for the DEF CON 34 workshop. The four workshop guides, slides, and supporting docs live here. The platform itself lives in the redStack repo linked below.
 
+> [!TIP]
+> **redStack now has a provider-agnostic successor: [redStackPRO](https://github.com/devZero-Security/redStackPRO).**
+> It is a web canvas that composes red team infrastructure and cyber ranges as a provider-agnostic topology, then compiles that topology to a complete, runnable directory of Terraform and Ansible you run yourself. GCP and AWS are tested end to end; Azure, Proxmox, and ESXi are on the roadmap. Built and maintained under devZero Security. See [redstackpro.com](https://redstackpro.com).
+
 ---
 
 ## Workshop at a Glance
